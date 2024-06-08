@@ -3,6 +3,8 @@
 ## À propos
 Ce dépôt contient les ressources sonarqube-9.9.5.90363 et sonar-scanner-cli-6.0.0.4432. Nous les partageons dans le but d'aider la communauté et de faciliter l'accès à ces ressources.
 
+Pour plus d'informations et d'autres outils de sécurité, visitez notre site web [PassAndSecure](https://passandsecure.fr).
+
 ## Téléchargement
 Vous pouvez télécharger les ressources directement depuis ce dépôt via les Releases. 
 Cliquez sur le fichier [`sonarqube-9.9.5.90363.zip`](https://github.com/PassAndSecure/SonarQube/releases/download/sonarqube-9.9.5.90363/sonarqube-9.9.5.90363.zip) pour le télécharger, et
