@@ -1,4 +1,4 @@
-#  sonarqube-9.9.5.90363
+#  sonarqube-9.9.5.90363 / sonar-scanner-cli-6.0.0.4432
 
 ## À propos
 Ce dépôt contient les ressources sonarqube-9.9.5.90363 et sonar-scanner-cli-6.0.0.4432. Nous les partageons dans le but d'aider la communauté et de faciliter l'accès à ces ressources.
